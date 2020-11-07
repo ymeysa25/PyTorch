@@ -4,4 +4,4 @@
 
 
 # PyTorch
- Let's Have fun with PYtorch
+ Let's Have fun with PyTorch
