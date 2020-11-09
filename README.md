@@ -8,8 +8,11 @@
  1.  [Official Pytorch Tutorial](http://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html).
  2.  [PyTorch-Tutorial Yunjey Github](https://github.com/yunjey/pytorch-tutorial)
 
+
+
 <br/>
 ## Summary
+
 ### Tutorials
-#### 1. 
-[Machine Learning](https://github.com/ymeysa25/PyTorch/tree/main/tutorials/Machine%20Learning)
+
+#### 1. [Machine Learning](https://github.com/ymeysa25/PyTorch/tree/main/tutorials/Machine%20Learning)
